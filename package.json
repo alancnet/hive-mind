@@ -1,0 +1,31 @@
+{
+  "name": "hive-mind",
+  "version": "1.0.0",
+  "description": "JavaScript hive-mind library for writing distributed computations naturally.",
+  "main": "lib/main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alancnet/hive-mind.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alancnet/hive-mind/issues"
+  },
+  "homepage": "https://github.com/alancnet/hive-mind#readme",
+  "dependencies": {
+    "lodash": "^4.5.1",
+    "masterless": "^0.4.1",
+    "rx": "^4.0.8",
+    "uuid": "^2.0.1"
+  },
+  "devDependencies": {
+    "babel-plugin-transform-es2015-modules-umd": "^6.5.0",
+    "babel-preset-es2015": "^6.5.0",
+    "babel-preset-es2016-node5": "^1.1.2",
+    "babel-preset-react": "^6.5.0"
+  }
+}
