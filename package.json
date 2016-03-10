@@ -17,9 +17,12 @@
   },
   "homepage": "https://github.com/alancnet/hive-mind#readme",
   "dependencies": {
+    "bauer-zip": "^1.0.2",
     "lodash": "^4.5.1",
     "masterless": "^0.4.1",
+    "msgpack": "^1.0.2",
     "rx": "^4.0.8",
+    "temp": "^0.8.3",
     "uuid": "^2.0.1"
   },
   "devDependencies": {
